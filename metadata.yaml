@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/128
     wikipedia: http://en.wikipedia.org/wiki/Cicero
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21200#The-Letters-of-Cicero-Volume-1The-Whole-Extant-Correspodence-in-Chronological-Order
 gutenberg_bookshelf:
 - Classical Antiquity
 - Harvard Classics
