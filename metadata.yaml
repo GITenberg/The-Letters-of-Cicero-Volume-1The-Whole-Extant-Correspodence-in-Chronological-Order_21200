@@ -1,0 +1,44 @@
+_repo: The-Letters-of-Cicero-Volume-1The-Whole-Extant-Correspodence-in-Chronological-Order_21200
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Shuckburgh, Evelyn S. (Evelyn Shirley)
+    aliases:
+    - Shuckburgh, E. S. (Evelyn Shirley)
+    - Shuckburgh, Evelyn Shirley
+    birthdate: 1843
+    deathdate: 1906
+    gutenberg_agent_id: '1033'
+    url: http://www.gutenberg.org/2009/agents/1033
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cicero, Marcus Tullius
+    birthdate: -106
+    deathdate: -43
+    gutenberg_agent_id: '128'
+    url: http://www.gutenberg.org/2009/agents/128
+    wikipedia: http://en.wikipedia.org/wiki/Cicero
+description: ''
+gutenberg_bookshelf:
+- Classical Antiquity
+- Harvard Classics
+gutenberg_issued: '2007-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21200'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Statesmen -- Rome -- Correspondence'
+- !lcc 'PA'
+- !lcsh 'Authors, Latin -- Correspondence'
+- !lcsh 'Cicero, Marcus Tullius -- Correspondence'
+title: 'The Letters of Cicero, Volume 1
+
+  The Whole Extant Correspodence in Chronological Order'
+url: http://www.gutenberg.org/ebooks/21200
